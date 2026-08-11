@@ -97,8 +97,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Daangulitz&show_icons=true&theme=dark&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daangulitz&layout=compact&theme=dark"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=Daangulitz&show_icons=true&theme=dark&count_private=true" height="170"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Daangulitz&layout=compact&theme=dark"/>
 </p>
 
 <p align="center">
