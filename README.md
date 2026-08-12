@@ -98,17 +98,17 @@
 
 <p align="center">
   <a href="https://github.com/Daangulitz/B.T.F.S">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Daangulitz&repo=B.T.F.S&theme=dark" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Daangulitz&repo=B.T.F.S&theme=dark" />
   </a>
   <a href="https://github.com/Daangulitz/Project-Timeline">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Daangulitz&repo=Project-Timeline&theme=dark" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Daangulitz&repo=Project-Timeline&theme=dark" />
   </a>
   <br />
   <a href="https://github.com/Daangulitz/XRpedition-team-10">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Daangulitz&repo=XRpedition-team-10&theme=dark" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Daangulitz&repo=XRpedition-team-10&theme=dark" />
   </a>
   <a href="https://github.com/Daangulitz/Daangulitz.github.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Daangulitz&repo=Daangulitz.github.io&theme=dark" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Daangulitz&repo=Daangulitz.github.io&theme=dark" />
   </a>
 </p>
 
