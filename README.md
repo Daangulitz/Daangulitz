@@ -1,6 +1,6 @@
 <a name="top"></a>
 
-[Me](#me) • [About](#about-me) • [Boss Design](#boss-design) • [Tech Stack](#tech-stack) • [Stats](#github-stats) • [Contact](#wanna-chat)
+[Me](#me) • [About](#about-me) • [Boss Design](#boss-design) • [Tech Stack](#tech-stack) • [Projects](#pinned-projects) • [Contact](#wanna-chat)
 
 <h1 align="center">⚔️ Hey, I'm Daan ⚔️</h1>
 <h3 align="center">🔥 Game & XR Developer 🔥</h3>
@@ -92,17 +92,24 @@
 
 ---
 
-<a name="github-stats"></a>
+<a name="pinned-projects"></a>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Daangulitz&show_icons=true&theme=dark&count_private=true" height="170"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Daangulitz&layout=compact&theme=dark"/>
-</p>
+## 📌 Featured Projects
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Daangulitz&theme=dark" />
+  <a href="https://github.com/Daangulitz/B.T.F.S">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Daangulitz&repo=B.T.F.S&theme=dark" />
+  </a>
+  <a href="https://github.com/Daangulitz/Project-Timeline">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Daangulitz&repo=Project-Timeline&theme=dark" />
+  </a>
+  <br />
+  <a href="https://github.com/Daangulitz/XRpedition-team-10">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Daangulitz&repo=XRpedition-team-10&theme=dark" />
+  </a>
+  <a href="https://github.com/Daangulitz/Daangulitz.github.io">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Daangulitz&repo=Daangulitz.github.io&theme=dark" />
+  </a>
 </p>
 
 ---
