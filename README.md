@@ -97,8 +97,8 @@
 ## 📌 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/Daangulitz/B.T.F.S">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Daangulitz&repo=B.T.F.S&theme=dark" />
+  <a href="https://github.com/Daangulitz/Wyvern-Glide">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Daangulitz&repo=Wyvern-Glide&theme=dark" />
   </a>
   <a href="https://github.com/Daangulitz/Project-Timeline">
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=Daangulitz&repo=Project-Timeline&theme=dark" />
